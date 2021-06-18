@@ -17,7 +17,5 @@
   ],
   "author": "Arif Istiak",
   "license": "MIT",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
-  }
+  
 }
