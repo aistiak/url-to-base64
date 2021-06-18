@@ -1,0 +1,20 @@
+{
+  "name": "@aistiak/url-to-base64",
+  "version": "1.0.0",
+  "description": "converts image url to base64 png fromat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aistiak/url-to-base64"
+  },
+  "keywords": [
+    "png",
+    "base64",
+    "convertion"
+  ],
+  "author": "Arif Istiak",
+  "license": "MIT"
+}
